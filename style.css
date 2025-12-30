@@ -1,0 +1,14 @@
+.Resume {
+    border: 2px solid black;
+    padding: 30px;      /* 👈 border aur content ke beech gap */
+    max-width: 900px;
+    margin: 20px auto; /* center karne ke liye */
+    box-sizing: border-box;
+}
+
+h3{
+    color: brown;
+}
+h1{
+    color: darkkhaki;
+}
